@@ -6,4 +6,4 @@ If you've used the app and have any comments, feedback, or suggestions then plea
 
 And of course, if you've found any issues then let me know and I'll take a look as soon as I can.
 
-Hope you're all enjoying using the beta version of the app!
+_Hope you're all enjoying using the beta version of the app so far!_
